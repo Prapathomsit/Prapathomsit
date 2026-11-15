@@ -36,7 +36,7 @@ I'm an indie full-stack developer passionate about building software, games, web
 National Level
 
 - 🎖️Honorable Mention - National Software Contest 2025 (Entertainment Software)
-- 🧑🏻‍💻Participate -KMITL GAME JAM Reality Show (Selected as one of the top 20 onsite finalists out of 300+ initial applicants)
+- 🧑🏻‍💻Finalist -KMITL GAME JAM Reality Show (Selected as one of the top 20 onsite finalists out of 300+ initial applicants)
 
 Community Tournament
 
