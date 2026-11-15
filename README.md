@@ -1,99 +1,49 @@
-# Hello I'M Prapathomsit Attapakkanon ❄️
+# Hi, I'm Prapathomsit Attapakkanon (Ice) ❄️
 
-**`Technology (Digital Innovation & Entrepreneurship)`**
+Year-1 **Computer Engineering & Digital Technology (CEDT)** student at **Chulalongkorn University**, looking for a **QA Automation Tester internship**.
 
-Indie Developer • Game Developer • Programmer • AI Enthusiast
-Passionate about innovation, startups, engineering, and creating impactful digital experiences
-<p align="left">
-  <a href="https://www.instagram.com/i.xe_monster/">
-    <img alt="Instagram subscribers" title="Subscribe to my Instagram" src="https://i.ibb.co/QFbcSDz8/Instagram-Icon.png" width="200" height="30"/></a>
-  <a href="https://www.tiktok.com/@alittledeveloper">
-    <img alt="Tiktok view" title="Subscribe to my Tiktok channel" src="https://i.ibb.co/TXG0c4s/Tiktokicon.png" width="120" height="30"/></a> 
-  <a href="https://prapathomsit123.itch.io">
-    <img alt="itch.io" title="View on my itch.io" src="https://i.ibb.co/Hctd8xG/Itch-io-2.png" width="120"
-     height="30"/></a>
-  <a href="https://github.com/ICEMONSER">
-    <img alt="followers" title="Follow me on Github" src="https://i.ibb.co/JZbTFX1/Github-star.png" width="200"
-     height="30"/></a>
-</p>
+I build web apps and games for competitions, and I test them like they have to survive a live demo, because they usually do.
 
-I'm an indie full-stack developer passionate about building software, games, websites, and applications. Every project I create is an opportunity to learn, experiment, and improve my skills as a developer. I enjoy solving problems, exploring new technologies, and turning ideas into real products. My goal is to continuously grow as an engineer and one day create innovative solutions that can make a meaningful impact on people's lives
+**Portfolio:** [prapathomsit.github.io](https://prapathomsit.github.io) · **Email:** prapathomsit.work@gmail.com · **Games:** [itch.io](https://prapathomsit123.itch.io) · **Dev clips:** [TikTok](https://www.tiktok.com/@alittledeveloper)
 
+---
 
-### 📚 Study At
+### 🧪 QA & testing work
 
-- Computer Engineering and Digital Technology (CEDT) Student at Chulalongkorn University
+| Project | What it shows |
+|---|---|
+| [**playwright-ecommerce-e2e**](https://github.com/Prapathomsit/playwright-ecommerce-e2e) | Playwright + TypeScript E2E suite (Page Object Model). 4 tests × 3 browsers run on GitHub Actions, and every result goes to a [live Google Sheet](https://docs.google.com/spreadsheets/d/19KROjkgRaDWTIVBfifGJpQjuhYWc4qtKpqVOdnpXm80/edit?gid=0#gid=0). Includes a test that catches a real checkout bug. |
+| [**Prakan (พร้อมยื่น)**](https://github.com/Prapathomsit/promptyuen-demo) · [demo](https://prapathomsit.github.io/promptyuen-demo/) | AI assistant that turns an accident story into an incident report. 80 automated tests, most of them negative: fake AI output, prompt injection, spoofed photos, duplicate submits, bad GPS input. |
 
+### 🛠 Projects
 
-### 📄Experience & Internship
+| Project | Type | My part |
+|---|---|---|
+| [Z.O.O](https://1jjjay.itch.io/zoo) | 3D investigation RPG, NPCs talk through the ChatGPT API | Team leader: player controller, camera, NPC data model |
+| [Try not to chip!](https://prapathomsit123.itch.io/try-not-to-chip) | 3D obby, 72-hour game jam | Developer, built and tested traps in separate test scenes |
+| [Dream Frogs Hunt](https://phonlakitz.itch.io/dream-frogs-hunt) | 2D action game, 48-hour game jam | Enemy wave spawning system |
+| CENTORIS | 2D platformer (in development) | Level design, gameplay, team of two |
+| ECOVEST+ | Community website for investing knowledge, built in 48 h | System architecture, Firebase login, pitch |
+| Obstacle alert for the visually impaired | ESP32 + distance and motion sensors | Soldering, assembly, presenting results |
+| Pool chlorine dispenser | Remote-controlled hardware prototype | School project team member |
 
-- Internship Trainee - Charoenkrung Pracharak Hospital (Youth Yellow Birds)
-- Guest Speaker - at Skillup 
+### 🏅 Competitions & awards
 
+- **Honorable Mention + 20,000 THB grant**: National Software Contest (NSC) 2025, Entertainment Software (Z.O.O)
+- **Finalist, Engineering Track**: CU-TU Biztania Camp 2026 (Prakan)
+- **Top 20 of 300+ (onsite round)**: KMITL Game Jam Reality Show (ECOVEST+)
+- **Bootcamp**: JUMP Thailand Hackathon 2026 (team leader, JOBSY) · UniHack 2026 (KonKlang)
+- **Game jams**: Hamster Hub GameJam X (Try not to chip!) · Nuutor Cup (Dream Frogs Hunt) · อยากสร้างเกม Season 2 (CENTORIS)
+- **Silver Medal (district) + Popular Vote (9.8K shares)**: Sarasas Project Based Learning Exhibition 2024
 
-### 🏅Honors & Awards 
+### ⚙️ Skills
 
-National Level
+**Testing:** Playwright, Page Object Model, Node test runner, negative & security tests, cross-browser runs, playtesting<br>
+**Code:** TypeScript, JavaScript, Python, C#, C++, SQL<br>
+**Tools:** GitHub Actions, Unity, Supabase, Firebase, Google Apps Script, ESP32 / micro:bit
 
-- 🎖️Honorable Mention - National Software Contest 2025 (Entertainment Software)
-- 🧑🏻‍💻Finalist -KMITL GAME JAM Reality Show (Selected as one of the top 20 onsite finalists out of 300+ initial applicants)
+### 🙋 Other
 
-Community Tournament
-
-- 🧑🏻‍💻Participate - Nuutor CUP Game Jam Tournament (Developed "Dream Frog Hunt" within a 48-hour Game Jam Competition)
-- 🧑🏻‍💻Participate - Gamejam X Developed "Try not to chip!",A 3D platformer where a living potato escapes a snack factory
-- 🧑🏻‍💻Participate - อยากสร้างเกม Season 2 (Developed "CENTORIS", a 2D Platformer Game and Continued Development for Future Store Release)
-  
-Regional & Others
-
-- 🥈Silver Medal Award - Sarasas Project Based Learning Exhibition 2024 (District Level)
-- 🏆Popular Vote Award  - Sarasas Project Based Learning Exhibition 2024 (9.8K Shares)
-
-### ⚙️Projects
-- Z.O.O. – 3D role-playing investigation game with AI-powered NPC interactions using API ChatGPT model 3.5
-- ECOVST+ – Community investment-learning web platform developed during KMITL Game Jam Reality Show.
-- Try Not to Chip! – 3D platformer about a living potato escaping a snack factory.
-- Dream Frog Hunt – 2D action game developed from a 48-hour game jam competition.
-- CENTORIS – 2D platformer game currently being refined for future store release.
-- DICE – Physics-based puzzle game inspired by crossword mechanics.(practice project)
-- Automated Chlorine Distribution System – Smart swimming pool chlorine distribution hardware project.
-- Smart Assistive Device for the Visually Impaired – Sensor-based device for obstacle detection and navigation assistance.
-- GoldValue - A website for accurately calculating gold prices, profit, loss, and percentage returns.
-
-
-### 💻 Working On
-- Building personal software and game development projects
-- Exploring Artificial Intelligence and automation
-- Participating in innovation and startup competitions
-- Learning investment strategies and gold trading markets
-
-
-
-### 🧰 Languages and Tools
-<p>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg"/>
-<img align="left" alt="" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-</p>
-
-<br clear="all" />
-
-<h3>✉️ CONTACT FOR WORK</h3>
-
-<p align="left">
-  <a href="https://docs.google.com/document/d/1TMpSGPDte7lLcwPcK2jEN3IAQeq-LPYWjoZSuSXcOpA/edit?usp=sharing/">
-    <img alt="Gmail" title="My Gmail" src="https://i.ibb.co/0jGGdzbv/Gmailicon.png" width="100" height="30"/>
-  </a>
-</p>
-
-
-
+- Youth Yellow Birds volunteer program, Charoenkrung Pracharak Hospital
+- Guest speaker at Skillup
+- Second GitHub account: [ICEMONSER](https://github.com/ICEMONSER)
