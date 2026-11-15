@@ -28,7 +28,7 @@ I'm an indie full-stack developer passionate about building software, games, web
 ### 📄Experience & Internship
 
 - Internship Trainee - Charoenkrung Pracharak Hospital (Youth Yellow Birds)
-- Teaching - at Skillup 
+- Guest Speaker - at Skillup 
 
 
 ### 🏅Honors & Awards 
