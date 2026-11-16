@@ -46,4 +46,3 @@ I build web apps and games for competitions, and I test them like they have to s
 
 - Youth Yellow Birds volunteer program, Charoenkrung Pracharak Hospital
 - Guest speaker at Skillup
-- Second GitHub account: [ICEMONSER](https://github.com/ICEMONSER)
