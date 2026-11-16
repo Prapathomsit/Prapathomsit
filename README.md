@@ -36,11 +36,22 @@ I build web apps and games for competitions, and I test them like they have to s
 - **Game jams**: Hamster Hub GameJam X (Try not to chip!) · Nuutor Cup (Dream Frogs Hunt) · อยากสร้างเกม Season 2 (CENTORIS)
 - **Silver Medal (district) + Popular Vote (9.8K shares)**: Sarasas Project Based Learning Exhibition 2024
 
-### ⚙️ Skills
+### 🧰 Tools I'm strongest with
 
-**Tools I'm strongest with:** Unity · Playwright · GitHub Desktop · Miro · GitHub Actions · VS Code<br>
-**Testing:** E2E testing, Page Object Model, cross-browser runs, playtesting, bug reproduction<br>
-**Languages:** C# (Unity), TypeScript, JavaScript, HTML & CSS, Python (basics)
+<p>
+<img src="https://prapathomsit.github.io/assets/badges/unity.svg" alt="Unity" height="28" /> <img src="https://prapathomsit.github.io/assets/badges/playwright.svg" alt="Playwright" height="28" /> <img src="https://prapathomsit.github.io/assets/badges/github-desktop.svg" alt="GitHub Desktop" height="28" /> <img src="https://prapathomsit.github.io/assets/badges/miro.svg" alt="Miro" height="28" /> <img src="https://prapathomsit.github.io/assets/badges/github-actions.svg" alt="GitHub Actions" height="28" /> <img src="https://prapathomsit.github.io/assets/badges/vscode.svg" alt="VS Code" height="28" />
+</p>
+
+### 🧪 Testing
+
+E2E testing · Page Object Model · cross-browser runs · playtesting · bug reproduction
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css,py" alt="C#, TypeScript, JavaScript, HTML, CSS, Python" /><br>
+  <sub>C# (Unity) · TypeScript · JavaScript · HTML · CSS · Python (basics)</sub>
+</p>
 
 ### 🙋 Other
 
