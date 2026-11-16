@@ -38,11 +38,12 @@ I build web apps and games for competitions, and I test them like they have to s
 
 ### ⚙️ Skills
 
-**Testing:** Playwright, Page Object Model, Node test runner, negative & security tests, cross-browser runs, playtesting<br>
-**Code:** TypeScript, JavaScript, Python, C#, C++, SQL<br>
-**Tools:** GitHub Actions, Unity, Supabase, Firebase, Google Apps Script, ESP32 / micro:bit
+**Tools I'm strongest with:** Unity · Playwright · GitHub Desktop · Miro · GitHub Actions · VS Code<br>
+**Testing:** E2E testing, Page Object Model, cross-browser runs, playtesting, bug reproduction<br>
+**Languages:** C# (Unity), TypeScript, JavaScript, HTML & CSS, Python (basics)
 
 ### 🙋 Other
 
 - Youth Yellow Birds volunteer program, Charoenkrung Pracharak Hospital
 - Guest speaker at Skillup
+- Second GitHub account: [ICEMONSER](https://github.com/ICEMONSER)
