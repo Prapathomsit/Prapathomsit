@@ -13,7 +13,7 @@ I build web apps and games for competitions, and I test them like they have to s
 | Project | What it shows |
 |---|---|
 | [**playwright-ecommerce-e2e**](https://github.com/Prapathomsit/playwright-ecommerce-e2e) | Playwright + TypeScript E2E suite (Page Object Model). 4 tests × 3 browsers run on GitHub Actions, and every result goes to a [live Google Sheet](https://docs.google.com/spreadsheets/d/19KROjkgRaDWTIVBfifGJpQjuhYWc4qtKpqVOdnpXm80/edit?gid=0#gid=0). Includes a test that catches a real checkout bug. |
-| [**Prakan (พร้อมยื่น)**](https://github.com/Prapathomsit/promptyuen-demo) · [demo](https://prapathomsit.github.io/promptyuen-demo/) | AI assistant that turns an accident story into an incident report. 80 automated tests, most of them negative: fake AI output, prompt injection, spoofed photos, duplicate submits, bad GPS input. |
+| [**Prakan (ประกัน)**](https://github.com/Prapathomsit/promptyuen-demo) · [demo](https://prapathomsit.github.io/promptyuen-demo/) | AI assistant that turns an accident story into an incident report. 80 automated tests, most of them negative: fake AI output, prompt injection, spoofed photos, duplicate submits, bad GPS input. |
 
 ### 🛠 Projects
 
