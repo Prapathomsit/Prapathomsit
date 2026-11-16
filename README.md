@@ -24,7 +24,7 @@ I build web apps and games for competitions, and I test them like they have to s
 | [Dream Frogs Hunt](https://phonlakitz.itch.io/dream-frogs-hunt) | 2D action game, 48-hour game jam | Enemy wave spawning system |
 | CENTORIS | 2D platformer (in development) | Level design, gameplay, team of two |
 | [DICE](https://drive.google.com/file/d/1JsHIW1Hc0JSSNOM6OQNpMR0MFNuXbOE1/view?usp=sharing) | Top-down crossword puzzle with physics movement | Walls, colliders, box speed, letter tiles |
-| [ECOVEST+](https://drive.google.com/file/d/1X7QSvlAIoZ5cM_1dcEuyqonp3Y43LRP6/view?usp=sharing) | Community website for investing knowledge, built in 48 h | System architecture, Firebase login, pitch |
+| [ECOVEST+](https://drive.google.com/file/d/1DYxfeKvCrmWQcWPTIA4-sF4Qcj_UAe97/view?usp=sharing) | Community website for investing knowledge, built in 48 h | System architecture, Firebase login, pitch |
 | Obstacle alert for the visually impaired | ESP32 + distance and motion sensors | Soldering, assembly, presenting results |
 | Pool chlorine dispenser | Remote-controlled hardware prototype | School project team member |
 
